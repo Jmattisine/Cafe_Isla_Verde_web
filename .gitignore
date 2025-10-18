@@ -1,0 +1,21 @@
+# Node / Vite
+node_modules
+dist
+.cache
+.vite
+.DS_Store
+
+# Env/secretos
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor/OS
+.vscode/
+.idea/
+Thumbs.db

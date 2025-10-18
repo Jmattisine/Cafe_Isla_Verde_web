@@ -1,0 +1,3 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+@layer base { html,body,#root{height:100%} }
+@layer components { .container{ @apply mx-auto max-w-6xl px-4; } }
